@@ -1,8 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
-<img width="765" alt="Screenshot 2023-03-15 at 18 36 29" src="https://user-images.githubusercontent.com/64740047/225449796-7187e110-73b6-4851-b76c-52d9839e9f9b.png">
+## Welcome to template nextjs with typescript and tailwindcss
 
+With Clean Arch
 
 
 ## Getting Started
@@ -38,6 +39,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-
+
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
